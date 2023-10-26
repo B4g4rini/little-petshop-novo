@@ -3,7 +3,6 @@ import animal from "../../assets/animal.png";
 import racao1 from "../../assets/racao1.png";
 import racao2 from "../../assets/racao2.png";
 import racao3 from "../../assets/racao3.png";
-import Button2 from "../forms/button2/button2";
 import Button from "../forms/button/button";
 import Card from "../card/card";
 
