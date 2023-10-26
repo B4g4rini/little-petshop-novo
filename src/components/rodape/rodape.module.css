@@ -1,0 +1,38 @@
+.inform {
+    background: #193A6A;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    bottom: 0;
+    position: relative;
+    text-align: center;
+    
+    
+  }
+
+
+.icons p{
+  display: flex;
+  justify-content: center;
+  color: #ffff;
+  height: 25px;
+  
+ 
+ 
+}
+
+
+
+  
+  .icons a{
+    
+    padding: 17px;
+    font-weight: bolder;
+    color: #ffff;
+    align-items: center;
+
+ }
+
+

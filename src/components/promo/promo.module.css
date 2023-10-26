@@ -1,0 +1,110 @@
+.promo {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+.racoes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 17px;
+  height: 300px;
+  margin-top: -20px;
+  padding-right: 300px;
+}
+.racoes p {
+  height: 95px;
+}
+
+.promo {
+  margin: auto;
+  display: block;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.anuncios{
+margin-left: -80px;
+
+}
+.anuncios p {
+margin-left: -60px;
+
+  padding: 55px;
+  width: 434px;
+  height: 31px;
+  color: #000;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: underline #3a8da8;
+  text-align: start;
+}
+
+.anuncios h4 {
+  text-align: start;
+  width: 457.249px;
+  height: 46.307px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Glades Bold;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.mais h6 {
+  color: #ffff;
+  background: #124c5f;
+  border-radius: 5px;
+  width: 150px;
+  
+  height: 58.721px;
+  flex-shrink: 0;
+  float: right;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  height: 30px;
+  
+
+
+}
+
+.desc {
+  color: #124c5f;
+  height: 5px;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+  font-family: Nunito;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  align-items: center;
+  display: flex;
+  align-self: center;
+  float: left;
+}
+
+.compra {
+  color: #124c5f;
+  height: 90px;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+  font-family: Nunito;
+  font-size: 32px;
+  font-style: normal;
+  text-align: left;
+  align-items: center;
+  display: flex;
+  align-self: center;
+  float: left;
+}
+
+.circulos {
+  margin-left: 95%;
+  margin-top: -700px;
+}
