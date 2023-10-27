@@ -40,7 +40,7 @@ const Promo = () => {
 
       <div className={styles.balls}>
         <img
-          src="src/assets/circulos.png"
+          src="src/assets/balls.png"
           alt="circulos laranjas um em cima do outro"
           width={"300"}
         />
