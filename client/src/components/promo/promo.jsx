@@ -3,6 +3,7 @@ import animal from "../../assets/animal.png";
 import racao1 from "../../assets/racao1.png";
 import racao2 from "../../assets/racao2.png";
 import racao3 from "../../assets/racao3.png";
+import balls from "../../assets/balls.png";
 import Button from "../forms/button/button";
 import Card from "../card/card";
 
@@ -40,7 +41,7 @@ const Promo = () => {
 
       <div className={styles.balls}>
         <img
-          src="src/assets/balls.png"
+          src={balls}
           alt="circulos laranjas um em cima do outro"
           width={"300"}
         />
