@@ -16,11 +16,11 @@ const Nav = () => {
         </div>
         <div className={styles.abas}>
       
-            <Button>Serviços</Button>
-            <Button>Produtos</Button>
-            <Button>Localização</Button>
-            <Button>Contato</Button>
-            <Button>Login</Button>
+            <a>Serviços</a>
+            <a>Produtos</a>
+            <a>Localização</a>
+            <a>Contato</a>
+            <a>Login</a>
 
         
         </div>

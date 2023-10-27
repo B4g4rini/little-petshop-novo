@@ -2,6 +2,7 @@
   margin: auto;
   display: block;
   text-align: center;
+  height: 1200px;
 }
 
 .racoes {
@@ -11,7 +12,7 @@
   gap: 17px;
   height: 300px;
   margin-top: -20px;
-  padding-right: 300px;
+  padding-right: 450px;
 }
 .racoes p {
   height: 95px;
@@ -24,16 +25,15 @@
   justify-content: space-between;
 }
 
-.anuncios{
-margin-left: -80px;
-
+.anuncios {
+  margin-left: -145px;
 }
 .anuncios p {
-margin-left: -60px;
+  margin: 10px;
 
   padding: 55px;
   width: 434px;
-  height: 31px;
+  height: 25px;
   color: #000;
   font-size: 28px;
   font-style: normal;
@@ -44,6 +44,7 @@ margin-left: -60px;
 }
 
 .anuncios h4 {
+  margin-left: 70px;
   text-align: start;
   width: 457.249px;
   height: 46.307px;
@@ -57,24 +58,24 @@ margin-left: -60px;
 }
 
 .mais h6 {
+  margin-left: 700px;
+  width: 202.084px;
+  padding: 10px 5px;
+  
   color: #ffff;
   background: #124c5f;
   border-radius: 5px;
-  width: 150px;
-  
-  height: 58.721px;
-  flex-shrink: 0;
-  float: right;
-  font-size: 20px;
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  text-align: center;
-  height: 30px;
-  
-
-
 }
+
+.mais:hover {
+  animation: 0.5s;
+  transition: 0.5s;
+scale: 1.02;
+ }
 
 .desc {
   color: #124c5f;
@@ -106,5 +107,5 @@ margin-left: -60px;
 
 .circulos {
   margin-left: 95%;
-  margin-top: -700px;
+  margin-top: -450px;
 }

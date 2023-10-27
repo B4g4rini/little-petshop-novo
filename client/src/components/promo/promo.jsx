@@ -38,7 +38,6 @@ const Promo = () => {
       
       </div>
 
-      <div className={styles.compra}></div>
       <div className={styles.circulos}>
         <img
           src="src/assets/circulos.png"

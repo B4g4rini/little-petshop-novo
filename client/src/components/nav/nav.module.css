@@ -1,35 +1,49 @@
 .bar {
-    
-    width: 100%;
-    height: 100px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    
-  }
-  
-  .bar .logo {
-    color: #193A6A;
-    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
-    font-family: Nunito;
-    font-size: 32px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 18px;
-    align-items:center;
-    text-align: center;
-    display: flex;
-  }
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 
-  .bar div img {
-    padding-right: 10px;
-  }
+.bar .logo {
+  color: #193a6a;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+  font-family: Nunito;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.bar div img {
+  padding-right: 10px;
+}
+
+.bar input {
+  background: #316282;
+  color: #fff;
+  width: 400px;
+  height: 40px;
+  border: none;
+  padding: 0 20px;
+}
+
+.abas a {
   
-  .bar input {
-    background: #316282;
-    color: #fff;
-    width: 400px;
-    height: 40px;
-    border: none;
-    padding: 0 20px;
-  }
+  padding: 15px 5px;
+  padding-right: 100px;
+  border-radius: 5px;
+  border: 0;
+  font-weight: 700;
+  color: #193a6a;
+  cursor: pointer;
+  font-size: 24px;
+  display: inline;
+  padding: 50px;
+  margin: 0 20px;
+  margin-right: -15px;
+}
