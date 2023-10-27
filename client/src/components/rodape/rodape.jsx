@@ -1,6 +1,4 @@
 import styles from "./rodape.module.css"
-import logo from "../../assets/logo.svg";
-import Button from "../forms/button/button"
 import "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js";
 import SocialLinks from "../socialLinks/socialLinks";
 

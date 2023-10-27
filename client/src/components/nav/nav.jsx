@@ -1,6 +1,5 @@
 import styles from "./nav.module.css"
 import logo from "../../assets/logo.svg";
-import Button from "../forms/button/button"
 
 
 const Nav = () => {

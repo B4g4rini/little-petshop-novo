@@ -38,7 +38,7 @@ const Promo = () => {
       
       </div>
 
-      <div className={styles.circulos}>
+      <div className={styles.balls}>
         <img
           src="src/assets/circulos.png"
           alt="circulos laranjas um em cima do outro"
